@@ -1,4 +1,4 @@
-# Lightweight Energy-Efficient Diagnostic Framework
+# Kidney Stone Detection using Knowledge Distillation and Carbon Emission Mitigation 
 
 ## The full code will be updated after the Paper gets published
 
