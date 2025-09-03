@@ -1,6 +1,6 @@
 # Lightweight Energy-Efficient Diagnostic Framework
 
-##The full code will be updated after the Paper gets published
+## The full code will be updated after the Paper gets published
 
 ## 🔬 Overview
 
